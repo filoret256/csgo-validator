@@ -4,8 +4,11 @@ steamID validator
 ##
 
 1. download 
-2. edit serverList
+2. npm i 
+   to install dependencies
+3. edit serverList
   where is object
+
 >[
 >  { ip: <IP>,
 >    port: <port>,
@@ -16,9 +19,11 @@ steamID validator
 
 that list for filtering different trafic and ban&kick players not in the list
 
-3. at index.js edit
+4. at index.js edit
+
 > const url = 'http://playerlist';
-  this is a foreign list of authorized players, at this example list is not at json format -)
+ 
+ this is a foreign list of authorized players, at this example list is not at json format -)
   if you have own list at some DB just change block
   
 >            request
