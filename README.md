@@ -1,5 +1,5 @@
 # csgo-validator
-steamID validator
+steamID validator for community srcds (officiel steam) servers, no matter what game :) they are all same
 
 ##
 
