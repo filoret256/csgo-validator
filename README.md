@@ -4,8 +4,12 @@ steamID validator
 ##
 
 1. download 
-2. npm i 
+2. run
+
+> npm i 
+
    to install dependencies
+   
 3. edit serverList
   where is object
 
